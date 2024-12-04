@@ -2,23 +2,27 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background:  #fff url(imagens/bg.png);
+    background: #fff url(imagens/bg.png);
     margin: 15px;
 }
+
 #container {
     background-color: #ede9cc;
     margin: 0 auto;
     min-width: 740px;
     max-width: 1200px;
 }
+
 #topo {
     position: relative;
     background-color: #dbcd87;
     height: 15.4em;
     min-height: 250px;
 }
+
 #logo {
     position: absolute;
     background: url(imagens/topo-imagem-principal2.png) no-repeat;
@@ -26,6 +30,7 @@ body {
     height: 250px;
     z-index: 1;
 }
+
 #menu {
     position: absolute;
     background: url(imagens/topo-imagem-lateral.png) no-repeat;
@@ -35,6 +40,7 @@ body {
     right: 0;
     z-index: 2;
 }
+
 .logo a {
     position: absolute;
     top: 15px;
@@ -45,6 +51,7 @@ body {
     height: 66px;
     text-indent: -90000px;
 }
+
 #conteudo {
     margin-left: 90px;
 }
