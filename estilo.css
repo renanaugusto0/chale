@@ -106,3 +106,13 @@ ul#navegacao a {
 ul#navegacao a:hover {
     background-color: #fdf6be;
 }
+
+/* ÁREA DE CONTEUDOS */
+main {
+    float: left;
+    width: 50%;
+}
+#lateral {
+    float: right;
+    width: 50%;
+}
